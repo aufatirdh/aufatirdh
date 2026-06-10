@@ -32,9 +32,9 @@ Data Science Student • Machine Learning Enthusiast
 - LinkedIn: https://www.linkedin.com/in/aufatir-diaul-haq/
 
 ---
-<p align="center">
+<h3 align="center">
 <b>Learning through data, building with purpose.</b>
-</p>
+</h3>
 <p align="center">
 Thank you for stopping by.
 </p>
