@@ -1,11 +1,7 @@
-<h1 align="center">Aufatir Diaul Haq</h1>
+<h1 align="center">From Raw Data to Intelligent Solutions</h1>
 
 <p align="center">
 Data Science Student • Machine Learning Enthusiast
-</p>
-
-<p align="center">
-Transforming data into insights, predictions, and real-world solutions.
 </p>
 
 ---
