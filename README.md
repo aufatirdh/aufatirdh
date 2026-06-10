@@ -25,14 +25,6 @@ Data Science Student • Machine Learning Enthusiast
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
-## 📫 Connect With Me
-
-- Portofolio: https://aufatir-portofolio.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/aufatir-diaul-haq/
-- Email: aufatir78@gmail.com
-- Instagram: @aufatirdh
-
----
 <h3 align="center">
 <b>Learning through data, building with purpose.</b>
 </h3>
