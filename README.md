@@ -29,8 +29,8 @@ Data Science Student • Machine Learning Enthusiast
 
 - Portofolio: https://aufatir-portofolio.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/aufatir-diaul-haq/
-- Instagram: @aufatirdh
 - Email: aufatir78@gmail.com
+- Instagram: @aufatirdh
 
 ---
 <h3 align="center">
