@@ -33,5 +33,9 @@ Data Science Student • Machine Learning Enthusiast
 
 ---
 <p align="center">
-Learning through data, building with purpose.
+<b>Learning through data, building with purpose.</b>
+</p>
+
+<p align="center">
+Thank you for stopping by.
 </p>
