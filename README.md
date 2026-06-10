@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aufatir Diaul Haq</h1>
-
-<h3 align="center">
-Data Science Student | Machine Learning Enthusiast
-</h3>
+<h1 align="center">Aufatir Diaul Haq</h1>
 
 <p align="center">
-Building data-driven solutions with Python, Machine Learning, and Analytics
+Data Science Student • Machine Learning Enthusiast
+</p>
+
+<p align="center">
+Transforming data into insights, predictions, and real-world solutions.
 </p>
 
 ---
