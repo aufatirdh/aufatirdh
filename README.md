@@ -8,7 +8,7 @@ Data Science Student • Machine Learning Enthusiast
 
 ## 👨‍💻 About Me
 
-- 🎓 Data Science Student at UNESA
+- 🎓 Data Science Student at Universitas Negeri Surabaya
 - 🤖 Interested in Machine Learning, AI, and Predictive Analytics
 - 📊 Building projects in forecasting, classification, and explainable AI
 - 🌱 Currently learning MLOps
@@ -27,5 +27,6 @@ Data Science Student • Machine Learning Enthusiast
 ---
 ## 📫 Connect With Me
 
+- Portofolio: https://aufatir-portofolio.vercel.app/
 - Instagram: @aufatirdh
 - LinkedIn: https://www.linkedin.com/in/aufatir-diaul-haq/
