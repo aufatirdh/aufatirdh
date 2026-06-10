@@ -29,16 +29,6 @@ Building data-driven solutions with Python, Machine Learning, and Analytics
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aufatirdh&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aufatirdh&theme=tokyonight" />
-</p>
-
----
 ## 📫 Connect With Me
 
 - Instagram: @aufatirdh
