@@ -4,6 +4,15 @@
 Data Science Student • Machine Learning Enthusiast
 </p>
 
+<p align="center">
+  <a href="https://aufatir-portofolio.vercel.app/">
+    <img height="35" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/c127aufatirdiaulhaq">
+    <img height="35" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -25,6 +34,7 @@ Data Science Student • Machine Learning Enthusiast
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
+
 <h3 align="center">
 <b>Learning through data, building with purpose.</b>
 </h3>
