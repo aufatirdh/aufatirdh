@@ -35,6 +35,14 @@ Data Science Student • Machine Learning Enthusiast
 
 ---
 
+<p align="center">
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=TiyaLabs&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiyaLabs&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 <h3 align="center">
 <b>Learning through data, building with purpose.</b>
 </h3>
