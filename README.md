@@ -6,7 +6,7 @@ Data Science Student • Machine Learning Enthusiast
 
 <p align="center">
   <a href="https://aufatir-portofolio.vercel.app/">
-    <img height="35" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img height="35" src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/c127aufatirdiaulhaq">
     <img height="35" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
@@ -28,10 +28,17 @@ Data Science Student • Machine Learning Enthusiast
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-181717?style=flat&logo=vercel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-150458?style=flat&logo=flask&logoColor=white)
 
 ---
 
@@ -40,8 +47,6 @@ Data Science Student • Machine Learning Enthusiast
   <img src="https://streak-stats.demolab.com?user=TiyaLabs&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiyaLabs&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 <h3 align="center">
 <b>Learning through data, building with purpose.</b>
